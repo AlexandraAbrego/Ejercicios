@@ -1,7 +1,7 @@
 
-#Información General
+# Información General
 
-###Instalaciones Necesarias 
+### Instalaciones Necesarias 
 - [Visual Studio Code](https://code.visualstudio.com/) (en cualquiera de sus versiones)
 - [NetBeans](https://netbeans.apache.org/front/main/) (en cualquiera de sus versiones)
 
@@ -14,11 +14,11 @@
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
-##Información Extra
+## Información Extra
 En caso de no estar familiarizad@ con el uso de GitHub o Git.
 - [Comandos principales de Git](https://www.hostinger.mx/tutoriales/comandos-de-git)
 - [Uso general de GitHub](https://docs.github.com/es/get-started)
 
 
-**Contacto: **
+** Contacto: **
 *alexandra.abrego@control-it.mx*
