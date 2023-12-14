@@ -5,7 +5,7 @@
 - [Visual Studio Code](https://code.visualstudio.com/) (en cualquiera de sus versiones)
 - [NetBeans](https://netbeans.apache.org/front/main/) (en cualquiera de sus versiones)
 
-###Instalaciones Recomendadas
+### Instalaciones Recomendadas
 - [Git](https://git-scm.com/) (en cualquiera de sus versiones)
 
 ## Extensiones Recomendadas para Visual Studio Code
@@ -20,5 +20,5 @@ En caso de no estar familiarizad@ con el uso de GitHub o Git.
 - [Uso general de GitHub](https://docs.github.com/es/get-started)
 
 
-** Contacto: **
+**Contacto:**
 *alexandra.abrego@control-it.mx*
